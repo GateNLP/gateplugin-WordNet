@@ -40,7 +40,7 @@ class RelationImpl implements Relation {
     return WNHelper.int2PointerType(this.type).getLabel();
   }
 
-  /** returns the inverse relation (Hyponym <-> Hypernym, etc) */
+  /** returns the inverse relation (Hyponym &lt-&gt; Hypernym, etc) */
   public int getInverseType() {
 
     switch(this.type){

@@ -71,7 +71,6 @@ public class JWNLWordNetImpl extends AbstractLanguageResource
   } // init()
 
 
-  /** helper method */
   public Dictionary getJWNLDictionary() {
     return this.wnDictionary;
   }
