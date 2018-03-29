@@ -16,6 +16,9 @@
 	<groupId>uk.ac.gate.plugins</groupId>
 	<artifactId>wordnet</artifactId>
 	<version>8.5-SNAPSHOT</version>
+	
+	<name>WordNet</name>
+	<description>Allows WordNet to be easily accessed from within GATE</description>
 
 	<licenses>
 		<license>
